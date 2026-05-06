@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507003758HLYYV6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507003758T02AGU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Nutre tu cuerpo: los grupos de alimentos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Aprende los grupos de alimentos mientras desarrollas competencia digital</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>José María Narbona Ortega</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta Situación de Aprendizaje, destinada a ponerse en práctica en la asignatura de Conocimiento del Medio, en un curso de 2º de Educación Primaria, vamos a trabajar los diferentes grupos de alimentos mediante el uso responsable de la herramienta de creación Canva y ChatGPT como recurso de Inteligencia Artificial. Para ello debemos seguir la secuencia didáctica que es expuesta a continuación.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778105141769</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mouj6awf-l1ghf0e6p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nutre tu cuerpo: los grupos de alimentos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nutre tu cuerpo: los grupos de alimentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nutre tu cuerpo: los grupos de alimentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Nutre tu cuerpo: los grupos de alimentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awf-l1ghf0e6p</odePageId>
+      <odeBlockId>block-1778016948188-x71udn23e</odeBlockId>
+      <blockName>Nutre tu cuerpo: los grupos de alimentos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awf-l1ghf0e6p</odePageId>
+          <odeBlockId>block-1778016948188-x71udn23e</odeBlockId>
+          <odeIdeviceId>idevice-1778016948186-gx33ci0r6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje está dirigida al alumnado de 2º de Educación Primaria. Tiene como finalidad que el alumnado conozca los diferentes grupos de alimentos y desarrolle hábitos de vida saludables mediante actividades prácticas y el uso de herramientas digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778016948186-gx33ci0r6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje está dirigida al alumnado de 2º de Educación Primaria. Tiene como finalidad que el alumnado conozca los diferentes grupos de alimentos y desarrolle hábitos de vida saludables mediante actividades prácticas y el uso de herramientas digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awi-eqcv75z58</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awi-eqcv75z58</odePageId>
+      <odeBlockId>block-1778017099865-jzuwjg2vt</odeBlockId>
+      <blockName></blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awi-eqcv75z58</odePageId>
+          <odeBlockId>block-1778017099865-jzuwjg2vt</odeBlockId>
+          <odeIdeviceId>idevice-1778017099863-fbtpijbc4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: left;">Esta Situación de Aprendizaje se centra en el estudio de los grupos de alimentos (los que nos aportan energía, nos aportan vitaminas y fibra y nos ayudan a crecer) y en la elaboración de un menú saludable.</p>
+<p style="text-align: left;">A lo largo de cinco sesiones de una hora cada una, el alumnado realizará actividades de exploración, clasificación, juego y creación, finalizando con el diseño de una infografía en Canva. Durante el proceso se introducirá el uso guiado de la aplicación de Inteligencia Artificial ChatGPT como herramienta educativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778017099863-fbtpijbc4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: left;\">Esta Situación de Aprendizaje se centra en el estudio de los grupos de alimentos (los que nos aportan energía, nos aportan vitaminas y fibra y nos ayudan a crecer) y en la elaboración de un menú saludable.</p>\n<p style=\"text-align: left;\">A lo largo de cinco sesiones de una hora cada una, el alumnado realizará actividades de exploración, clasificación, juego y creación, finalizando con el diseño de una infografía en Canva. Durante el proceso se introducirá el uso guiado de la aplicación de Inteligencia Artificial ChatGPT como herramienta educativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awl-amyanzce6</odePageId>
+  <odeParentPageId>page-mouj6awi-eqcv75z58</odeParentPageId>
+  <pageName>Centro de interés o temática</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Centro de interés o temática</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Centro de interés o temática</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awl-amyanzce6</odePageId>
+      <odeBlockId>block-1778019772141-38tqru9wn</odeBlockId>
+      <blockName></blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awl-amyanzce6</odePageId>
+          <odeBlockId>block-1778019772141-38tqru9wn</odeBlockId>
+          <odeIdeviceId>idevice-1778019772140-tig23x996</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En términos curriculares el foco estará puesto en los grupos de alimentos, mientras en lo que a competencia digital del alumnado concierne se pretende potenciar el uso de la Inteligencia Artificial como herramienta orientada a fines educativos. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778019772140-tig23x996","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En términos curriculares el foco estará puesto en los grupos de alimentos, mientras en lo que a competencia digital del alumnado concierne se pretende potenciar el uso de la Inteligencia Artificial como herramienta orientada a fines educativos. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awm-631n1m19v</odePageId>
+  <odeParentPageId>page-mouj6awi-eqcv75z58</odeParentPageId>
+  <pageName>Nivel al que va dirigido</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nivel al que va dirigido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nivel al que va dirigido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awm-631n1m19v</odePageId>
+      <odeBlockId>block-1778019843458-wenfhk8ym</odeBlockId>
+      <blockName></blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awm-631n1m19v</odePageId>
+          <odeBlockId>block-1778019843458-wenfhk8ym</odeBlockId>
+          <odeIdeviceId>idevice-1778019843457-5bkp4q9wi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto va dirigido a Segundo de Educación Primaria.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778019843457-5bkp4q9wi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto va dirigido a Segundo de Educación Primaria.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awo-tbipoa0fj</odePageId>
+  <odeParentPageId>page-mouj6awi-eqcv75z58</odeParentPageId>
+  <pageName>Temporalización aproximada</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización aproximada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización aproximada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awo-tbipoa0fj</odePageId>
+      <odeBlockId>block-1778019890814-mtzmmfoqv</odeBlockId>
+      <blockName></blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awo-tbipoa0fj</odePageId>
+          <odeBlockId>block-1778019890814-mtzmmfoqv</odeBlockId>
+          <odeIdeviceId>idevice-1778019890813-2q5xhf7zp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se contempla una temporalización de 5 sesiones de 1 hora cada una. En estas sesiones incluiremos:</p>
+<p>- El contenido curricular a trabajar.<br />- La introducción de la Inteligencia Artificial que será empleada en clase.<br />- La realización del proyecto final.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778019890813-2q5xhf7zp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se contempla una temporalización de 5 sesiones de 1 hora cada una. En estas sesiones incluiremos:</p>\n<p>- El contenido curricular a trabajar.<br />- La introducción de la Inteligencia Artificial que será empleada en clase.<br />- La realización del proyecto final.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awp-rstxth09l</odePageId>
+  <odeParentPageId>page-mouj6awi-eqcv75z58</odeParentPageId>
+  <pageName>Materia</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Materia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Materia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awp-rstxth09l</odePageId>
+      <odeBlockId>block-1778019940122-2hha0rvb5</odeBlockId>
+      <blockName></blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awp-rstxth09l</odePageId>
+          <odeBlockId>block-1778019940122-2hha0rvb5</odeBlockId>
+          <odeIdeviceId>idevice-1778019940121-rlfqhg0mc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La materia en la que se llevará a cabo este proyecto es Conocimiento del Medio.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778019940121-rlfqhg0mc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La materia en la que se llevará a cabo este proyecto es Conocimiento del Medio.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awq-kkmacvsus</odePageId>
+  <odeParentPageId>page-mouj6awi-eqcv75z58</odeParentPageId>
+  <pageName>Idioma</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Idioma</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Idioma</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awq-kkmacvsus</odePageId>
+      <odeBlockId>block-1778019978746-yu5gsp6g7</odeBlockId>
+      <blockName></blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awq-kkmacvsus</odePageId>
+          <odeBlockId>block-1778019978746-yu5gsp6g7</odeBlockId>
+          <odeIdeviceId>idevice-1778019978745-15rnzwdsw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La lengua empleada para la puesta en práctica de este proyecto es el castellano.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778019978745-15rnzwdsw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La lengua empleada para la puesta en práctica de este proyecto es el castellano.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awr-qwwwa2y3r</odePageId>
+  <odeParentPageId>page-mouj6awi-eqcv75z58</odeParentPageId>
+  <pageName>¿Qué se pretende que el alumnado aprenda y trabaje?</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué se pretende que el alumnado aprenda y trabaje?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué se pretende que el alumnado aprenda y trabaje?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awr-qwwwa2y3r</odePageId>
+      <odeBlockId>block-1778020042071-3frkunmbg</odeBlockId>
+      <blockName></blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awr-qwwwa2y3r</odePageId>
+          <odeBlockId>block-1778020042071-3frkunmbg</odeBlockId>
+          <odeIdeviceId>idevice-1778020042069-s6zal6zyl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumno aprenderá los diferentes grupos de alimentos (los que nos aportan energía, los que nos aportan vitaminas y fibra y los que nos ayudan a crecer) y será capaz de elaborar un menú saludable en el que se incluyan alimentos de los tres grupos. Este menú debe hacerse apoyándose en el uso responsable de herramientas de Inteligencia Artificial, en nuestro caso será ChatGPT. Por lo tanto se persiguen dos finalidades:</p>
+<p><br />- Trabajar y aprender los diferentes grupos de alimentos.<br />- Iniciarse en el uso de la Inteligencia Artificial con fines educativos.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778020042069-s6zal6zyl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumno aprenderá los diferentes grupos de alimentos (los que nos aportan energía, los que nos aportan vitaminas y fibra y los que nos ayudan a crecer) y será capaz de elaborar un menú saludable en el que se incluyan alimentos de los tres grupos. Este menú debe hacerse apoyándose en el uso responsable de herramientas de Inteligencia Artificial, en nuestro caso será ChatGPT. Por lo tanto se persiguen dos finalidades:</p>\n<p><br />- Trabajar y aprender los diferentes grupos de alimentos.<br />- Iniciarse en el uso de la Inteligencia Artificial con fines educativos.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6aws-1l2vgmnm3</odePageId>
+  <odeParentPageId>page-mouj6awi-eqcv75z58</odeParentPageId>
+  <pageName>Justificación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6aws-1l2vgmnm3</odePageId>
+      <odeBlockId>block-1778020101752-latq9v9b0</odeBlockId>
+      <blockName></blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6aws-1l2vgmnm3</odePageId>
+          <odeBlockId>block-1778020101752-latq9v9b0</odeBlockId>
+          <odeIdeviceId>idevice-1778020101751-teuu972mn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La razón de la elección de este enfoque es que desde mi experiencia en el aula la Inteligencia Artificial puede ser una buena herramienta, muy útil en nuestro día a día, que despierte interés y curiosidad en el alumnado pero para sacarle todo el provecho es necesario ponerla sobre la mesa en condiciones y situar una actividad que sea adecuada.</p>
+<p>Con este proyecto se pretende mejorar la práctica ya realizada anteriormente, ahora con más experiencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778020101751-teuu972mn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La razón de la elección de este enfoque es que desde mi experiencia en el aula la Inteligencia Artificial puede ser una buena herramienta, muy útil en nuestro día a día, que despierte interés y curiosidad en el alumnado pero para sacarle todo el provecho es necesario ponerla sobre la mesa en condiciones y situar una actividad que sea adecuada.</p>\n<p>Con este proyecto se pretende mejorar la práctica ya realizada anteriormente, ahora con más experiencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awt-j1ze2fruo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Licencias y seguridad</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Licencias y seguridad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awt-j1ze2fruo</odePageId>
+      <odeBlockId>block-1778104510664-hi32ytoh9</odeBlockId>
+      <blockName></blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awt-j1ze2fruo</odePageId>
+          <odeBlockId>block-1778104510664-hi32ytoh9</odeBlockId>
+          <odeIdeviceId>idevice-1778104510661-qoxjwcnom</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778104510661-qoxjwcnom" title="" href="{{context_path}}/content/resources/Licencias y seguridad.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Licencias y seguridad.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778104510661-qoxjwcnom","img_0":{"img":"{{context_path}}/content/resources/Licencias y seguridad.jpg","thumbnail":"{{context_path}}/content/resources/Licencias y seguridad.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awu-9xjmarv2i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas para el producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para el producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas para el producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awu-9xjmarv2i</odePageId>
+      <odeBlockId>block-1778020555912-dgkx3ozu6</odeBlockId>
+      <blockName>Canva y ChatGPT</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awu-9xjmarv2i</odePageId>
+          <odeBlockId>block-1778020555912-dgkx3ozu6</odeBlockId>
+          <odeIdeviceId>idevice-1778020555911-wfdt456b5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las herramientas seleccionadas para la realización del producto final son Canva y ChatGPT.</p>
+<p>Gracias a ChatGPT el alumnado podrá pedirle a la Inteligencia Artificial que le ayude a crear un menú saludable que incluya alimentos de los diferentes grupos en su correcta proporción. Si he elegido ChatGPT es porque es una herramienta que funciona muy bien en la retroalimentación de textos escritos, algo que no tienen aquellas que se centran más en la creación de vídeos o imágenes. Para ello cada grupo elaborará un prompt que dictarán al docente para que lo replique en la pizarra digital de forma guiada. Este apartado es importante. Cuando se introduce una herramienta de Inteligencia Artificial en el aula con un grupo como Segundo de Primaria el proceso debe ser bastante guiado en sus primeras etapas. Además, esta opción no requeriría la creación de ninguna cuenta por parte del alumnado, todo se haría mediante la cuenta corporativa del docente en el aula.</p>
+<p> </p>
+<p>Una vez el grupo haya obtenido la información de diferentes opciones gracias a ChatGPT es momento de que cada grupo elabore una infografía con Canva con el menú ya diseñado. Si he considerado que Canva es una opción adecuada es porque su uso suele no ser complejo para casi ninguna edad y la versión gratuita ofrece opciones bastante interesantes para poder desenvolverse aún cuando nunca la hayas podido usar, algo que no siempre es posible con todas las herramientas que ofrecen este servicio. Muchas de ellas son exclusivamente de pago y algunas que ofrecen una versión gratuita disponen de opciones muy limitadas si no hay pago de por medio.</p>
+<p>Aunque hay múltiples opciones para escoger en la red, la decisión de optar por Canva y ChatGPT tiene algunas razones de peso que no debemos pasar por alto:</p>
+<p>La primera es que son herramientas que pueden llegar a ser manejadas por un alumnado de Segundo de Primaria. Ambas tienen versión de pago pero permiten múltiples opciones en sus versiones gratuitas, lo cuál es adecuado teniendo en cuenta que se emplean en contexto educativo con un alumnado que no es de edad avanzada.</p>
+<p>En segundo lugar el centro dispone de los medios suficientes para su uso y aprendizaje. Una cantidad de ordenadores bastante aceptable y pizarras interactivas en todas las aulas. Este asunto no es tema porque el grupo al principio va a necesitar familiarizarse con las herramientas y en esta tesitura el proceso podrá hacerse de manera guiada hasta que exista una comprensión total.</p>
+<p>Por último, aunque no menos importante, tanto ChatGPT como Canva permiten el registro mediante cuentas del propio centro (incluyendo las del alumnado), evitando así el problema de tener que emplear una cuenta personal para trabajar.<br /> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778020555911-wfdt456b5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las herramientas seleccionadas para la realización del producto final son Canva y ChatGPT.</p>\n<p>Gracias a ChatGPT el alumnado podrá pedirle a la Inteligencia Artificial que le ayude a crear un menú saludable que incluya alimentos de los diferentes grupos en su correcta proporción. Si he elegido ChatGPT es porque es una herramienta que funciona muy bien en la retroalimentación de textos escritos, algo que no tienen aquellas que se centran más en la creación de vídeos o imágenes. Para ello cada grupo elaborará un prompt que dictarán al docente para que lo replique en la pizarra digital de forma guiada. Este apartado es importante. Cuando se introduce una herramienta de Inteligencia Artificial en el aula con un grupo como Segundo de Primaria el proceso debe ser bastante guiado en sus primeras etapas. Además, esta opción no requeriría la creación de ninguna cuenta por parte del alumnado, todo se haría mediante la cuenta corporativa del docente en el aula.</p>\n<p> </p>\n<p>Una vez el grupo haya obtenido la información de diferentes opciones gracias a ChatGPT es momento de que cada grupo elabore una infografía con Canva con el menú ya diseñado. Si he considerado que Canva es una opción adecuada es porque su uso suele no ser complejo para casi ninguna edad y la versión gratuita ofrece opciones bastante interesantes para poder desenvolverse aún cuando nunca la hayas podido usar, algo que no siempre es posible con todas las herramientas que ofrecen este servicio. Muchas de ellas son exclusivamente de pago y algunas que ofrecen una versión gratuita disponen de opciones muy limitadas si no hay pago de por medio.</p>\n<p>Aunque hay múltiples opciones para escoger en la red, la decisión de optar por Canva y ChatGPT tiene algunas razones de peso que no debemos pasar por alto:</p>\n<p>La primera es que son herramientas que pueden llegar a ser manejadas por un alumnado de Segundo de Primaria. Ambas tienen versión de pago pero permiten múltiples opciones en sus versiones gratuitas, lo cuál es adecuado teniendo en cuenta que se emplean en contexto educativo con un alumnado que no es de edad avanzada.</p>\n<p>En segundo lugar el centro dispone de los medios suficientes para su uso y aprendizaje. Una cantidad de ordenadores bastante aceptable y pizarras interactivas en todas las aulas. Este asunto no es tema porque el grupo al principio va a necesitar familiarizarse con las herramientas y en esta tesitura el proceso podrá hacerse de manera guiada hasta que exista una comprensión total.</p>\n<p>Por último, aunque no menos importante, tanto ChatGPT como Canva permiten el registro mediante cuentas del propio centro (incluyendo las del alumnado), evitando así el problema de tener que emplear una cuenta personal para trabajar.<br /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6aww-6hm2bnevs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6aww-6hm2bnevs</odePageId>
+      <odeBlockId>block-1778020731346-ij06bca28</odeBlockId>
+      <blockName>Symbaloo y Padlet como métodos de curación de contenidos.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6aww-6hm2bnevs</odePageId>
+          <odeBlockId>block-1778020731346-ij06bca28</odeBlockId>
+          <odeIdeviceId>idevice-1778020731344-iy9eakvjn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para realizar la curación de contenidos se han empleado Symbaloo y Padlet, herramientas a las que se puede acceder muy fácilmente. Siguiendo este enlace verás la curación de contenidos.</p>
+<p><a href="https://www.symbaloo.com/mix/herramientas-eolx">https://www.symbaloo.com/mix/herramientas-eolx</a></p>
+<p><a href="https://padlet.com/josemarianarbonaortega/mi-sandbox-sublime-p09vnwsb2iuv6bqb">https://padlet.com/josemarianarbonaortega/mi-sandbox-sublime-p09vnwsb2iuv6bqb</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778020731344-iy9eakvjn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para realizar la curación de contenidos se han empleado Symbaloo y Padlet, herramientas a las que se puede acceder muy fácilmente. Siguiendo este enlace verás la curación de contenidos.</p>\n<p><a href=\"https://www.symbaloo.com/mix/herramientas-eolx\">https://www.symbaloo.com/mix/herramientas-eolx</a></p>\n<p><a href=\"https://padlet.com/josemarianarbonaortega/mi-sandbox-sublime-p09vnwsb2iuv6bqb\">https://padlet.com/josemarianarbonaortega/mi-sandbox-sublime-p09vnwsb2iuv6bqb</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awx-4txnw1u1g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación asociados a tareas</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación asociados a tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación asociados a tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awx-4txnw1u1g</odePageId>
+      <odeBlockId>block-1778021055343-7yb84zjxe</odeBlockId>
+      <blockName>Criterios de evaluación asociados a tareas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awx-4txnw1u1g</odePageId>
+          <odeBlockId>block-1778021055343-7yb84zjxe</odeBlockId>
+          <odeIdeviceId>idevice-1778021055342-0h63t1lzo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; height: 711px; border-color: #000000; border-style: dotted;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 19.9807%; text-align: center; height: 33px;"><strong>Tarea</strong></td>
+<td style="width: 19.9807%; text-align: center; height: 33px;"><strong>Criterio de evaluación</strong></td>
+<td style="width: 19.9807%; text-align: center; height: 33px;"><strong>Agrupamiento</strong></td>
+<td style="width: 19.9807%; text-align: center; height: 33px;"><strong>Tiempo aproximado</strong></td>
+<td style="width: 19.985%; text-align: center; height: 33px;"><strong>Herramienta</strong></td>
+</tr>
+<tr style="height: 321px;">
+<td style="width: 19.9807%; height: 321px;">Lluvia de ideas</td>
+<td style="width: 19.9807%; height: 321px;">2.4.a. Dar ejemplos <br />de posibles <br />respuestas sencillas <br />a las preguntas <br />planteadas, <br />comenzando a <br />establecer <br />comparaciones <br />básicas entre la <br />información y <br />resultados obtenidos <br />con las predicciones <br />realizadas. </td>
+<td style="width: 19.9807%; height: 321px;">Grupo-clase</td>
+<td style="width: 19.9807%; height: 321px;">15 minutos</td>
+<td style="width: 19.985%; height: 321px;">Mentimeter</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.9807%; height: 33px;">Grupos de alimentos</td>
+<td style="width: 19.9807%; height: 33px;">4.2.b. Reconocer <br />hábitos de vida <br />saludables, <br />partiendo del <br />conocimiento y la localización de las <br />partes del cuerpo <br />implicadas en las <br />funciones vitales, <br />valorando la <br />importancia de la <br />higiene, una <br />alimentación <br />variada, equilibrada y <br />sostenible, el <br />ejercicio físico, el <br />contacto con la <br />naturaleza, el <br />descanso y el uso <br />adecuado de las <br />tecnologías. </td>
+<td style="width: 19.9807%; height: 33px;">Individual</td>
+<td style="width: 19.9807%; height: 33px;">45 minutos</td>
+<td style="width: 19.985%; height: 33px;">Wordwall</td>
+</tr>
+<tr style="height: 225px;">
+<td style="width: 19.9807%; height: 225px;">Juegos interactivos</td>
+<td style="width: 19.9807%; height: 225px;">2.1.b. Mostrar <br />curiosidad por <br />objetos, hechos y <br />fenómenos <br />cercanos, <br />formulando <br />preguntas y <br />realizando <br />predicciones. </td>
+<td style="width: 19.9807%; height: 225px;">Grupos pequeños</td>
+<td style="width: 19.9807%; height: 225px;">1 hora</td>
+<td style="width: 19.985%; height: 225px;">Educaplay</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.9807%; height: 33px;">Diseño del menú</td>
+<td style="width: 19.9807%; height: 33px;">2.5.a. Iniciarse en el <br />uso de destrezas <br />básicas para comunicar de forma <br />oral o gráfica el <br />resultado de las <br />investigaciones, <br />realizando, de <br />manera guiada, la <br />explicación de los <br />pasos seguidos con <br />ayuda de un guion. </td>
+<td style="width: 19.9807%; height: 33px;">Grupos pequeños</td>
+<td style="width: 19.9807%; height: 33px;">1 hora</td>
+<td style="width: 19.985%; height: 33px;">Canva</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.9807%; height: 33px;">Analizar menú</td>
+<td style="width: 19.9807%; height: 33px;">4.2.a. Identificar <br />hábitos de vida <br />saludables valorando <br />la importancia de la <br />higiene, una <br />alimentación variada <br />y equilibrada, el <br />ejercicio físico, el <br />contacto con la <br />naturaleza, el <br />descanso y el uso <br />adecuado de las <br />tecnologías.</td>
+<td style="width: 19.9807%; height: 33px;">Grupos pequeños</td>
+<td style="width: 19.9807%; height: 33px;">30 minutos</td>
+<td style="width: 19.985%; height: 33px;">ChatGPT</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.9807%; height: 33px;">Presentación final</td>
+<td style="width: 19.9807%; height: 33px;">3.2.a. Presentar de <br />forma gráfica el <br />diseño final de los <br />proyectos, <br />explicando los pasos <br />seguidos con ayuda de un guión.</td>
+<td style="width: 19.9807%; height: 33px;">Grupos pequeños</td>
+<td style="width: 19.9807%; height: 33px;">1 hora</td>
+<td style="width: 19.985%; height: 33px;">Canva</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778021055342-0h63t1lzo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 711px; border-color: #000000; border-style: dotted;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.9807%; text-align: center; height: 33px;\"><strong>Tarea</strong></td>\n<td style=\"width: 19.9807%; text-align: center; height: 33px;\"><strong>Criterio de evaluación</strong></td>\n<td style=\"width: 19.9807%; text-align: center; height: 33px;\"><strong>Agrupamiento</strong></td>\n<td style=\"width: 19.9807%; text-align: center; height: 33px;\"><strong>Tiempo aproximado</strong></td>\n<td style=\"width: 19.985%; text-align: center; height: 33px;\"><strong>Herramienta</strong></td>\n</tr>\n<tr style=\"height: 321px;\">\n<td style=\"width: 19.9807%; height: 321px;\">Lluvia de ideas</td>\n<td style=\"width: 19.9807%; height: 321px;\">2.4.a. Dar ejemplos <br />de posibles <br />respuestas sencillas <br />a las preguntas <br />planteadas, <br />comenzando a <br />establecer <br />comparaciones <br />básicas entre la <br />información y <br />resultados obtenidos <br />con las predicciones <br />realizadas. </td>\n<td style=\"width: 19.9807%; height: 321px;\">Grupo-clase</td>\n<td style=\"width: 19.9807%; height: 321px;\">15 minutos</td>\n<td style=\"width: 19.985%; height: 321px;\">Mentimeter</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.9807%; height: 33px;\">Grupos de alimentos</td>\n<td style=\"width: 19.9807%; height: 33px;\">4.2.b. Reconocer <br />hábitos de vida <br />saludables, <br />partiendo del <br />conocimiento y la localización de las <br />partes del cuerpo <br />implicadas en las <br />funciones vitales, <br />valorando la <br />importancia de la <br />higiene, una <br />alimentación <br />variada, equilibrada y <br />sostenible, el <br />ejercicio físico, el <br />contacto con la <br />naturaleza, el <br />descanso y el uso <br />adecuado de las <br />tecnologías. </td>\n<td style=\"width: 19.9807%; height: 33px;\">Individual</td>\n<td style=\"width: 19.9807%; height: 33px;\">45 minutos</td>\n<td style=\"width: 19.985%; height: 33px;\">Wordwall</td>\n</tr>\n<tr style=\"height: 225px;\">\n<td style=\"width: 19.9807%; height: 225px;\">Juegos interactivos</td>\n<td style=\"width: 19.9807%; height: 225px;\">2.1.b. Mostrar <br />curiosidad por <br />objetos, hechos y <br />fenómenos <br />cercanos, <br />formulando <br />preguntas y <br />realizando <br />predicciones. </td>\n<td style=\"width: 19.9807%; height: 225px;\">Grupos pequeños</td>\n<td style=\"width: 19.9807%; height: 225px;\">1 hora</td>\n<td style=\"width: 19.985%; height: 225px;\">Educaplay</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.9807%; height: 33px;\">Diseño del menú</td>\n<td style=\"width: 19.9807%; height: 33px;\">2.5.a. Iniciarse en el <br />uso de destrezas <br />básicas para comunicar de forma <br />oral o gráfica el <br />resultado de las <br />investigaciones, <br />realizando, de <br />manera guiada, la <br />explicación de los <br />pasos seguidos con <br />ayuda de un guion. </td>\n<td style=\"width: 19.9807%; height: 33px;\">Grupos pequeños</td>\n<td style=\"width: 19.9807%; height: 33px;\">1 hora</td>\n<td style=\"width: 19.985%; height: 33px;\">Canva</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.9807%; height: 33px;\">Analizar menú</td>\n<td style=\"width: 19.9807%; height: 33px;\">4.2.a. Identificar <br />hábitos de vida <br />saludables valorando <br />la importancia de la <br />higiene, una <br />alimentación variada <br />y equilibrada, el <br />ejercicio físico, el <br />contacto con la <br />naturaleza, el <br />descanso y el uso <br />adecuado de las <br />tecnologías.</td>\n<td style=\"width: 19.9807%; height: 33px;\">Grupos pequeños</td>\n<td style=\"width: 19.9807%; height: 33px;\">30 minutos</td>\n<td style=\"width: 19.985%; height: 33px;\">ChatGPT</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.9807%; height: 33px;\">Presentación final</td>\n<td style=\"width: 19.9807%; height: 33px;\">3.2.a. Presentar de <br />forma gráfica el <br />diseño final de los <br />proyectos, <br />explicando los pasos <br />seguidos con ayuda de un guión.</td>\n<td style=\"width: 19.9807%; height: 33px;\">Grupos pequeños</td>\n<td style=\"width: 19.9807%; height: 33px;\">1 hora</td>\n<td style=\"width: 19.985%; height: 33px;\">Canva</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6awz-t7fia8259</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal para la organización</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal para la organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal para la organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6awz-t7fia8259</odePageId>
+      <odeBlockId>block-1778104979676-l5ncrdgkz</odeBlockId>
+      <blockName></blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6awz-t7fia8259</odePageId>
+          <odeBlockId>block-1778104979676-l5ncrdgkz</odeBlockId>
+          <odeIdeviceId>idevice-1778104979671-6v34tzfz3</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778104979671-6v34tzfz3" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 000251.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-07 000251.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778104979671-6v34tzfz3","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 000251.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-07 000251.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6ax0-dibey7u0a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6ax0-dibey7u0a</odePageId>
+      <odeBlockId>block-1778022103088-r4fpnwd2a</odeBlockId>
+      <blockName></blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6ax0-dibey7u0a</odePageId>
+          <odeBlockId>block-1778022103088-r4fpnwd2a</odeBlockId>
+          <odeIdeviceId>idevice-1778022103088-o0sqot0mi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se facilitan los enlaces de acceso a los instrumentos de evaluación:</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfJjMfI8rGA_7OXQH1bA8JwVcxfCPLWpqb_RTUSJnq5noUCXA/viewform?usp=header" target="_blank" rel="noopener" title="">Cuestionario</a></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1UKgHu1o_819euwgntWdrf9RBFYNIE23f07bBj8xxIng/edit?usp=sharing" target="_blank" rel="noopener" title="">Rúbrica</a></p>
+<p><a href="https://docs.google.com/document/d/1LITOw2SA6YXtNeNSAcS8Arq2ju-57QPst2F54rxhgl8/edit?usp=sharing" target="_blank" rel="noopener" title="">Lista de cotejo</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778022103088-o0sqot0mi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se facilitan los enlaces de acceso a los instrumentos de evaluación:</p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfJjMfI8rGA_7OXQH1bA8JwVcxfCPLWpqb_RTUSJnq5noUCXA/viewform?usp=header\" target=\"_blank\" rel=\"noopener\" title=\"\">Cuestionario</a></p>\n<p><a href=\"https://docs.google.com/spreadsheets/d/1UKgHu1o_819euwgntWdrf9RBFYNIE23f07bBj8xxIng/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">Rúbrica</a></p>\n<p><a href=\"https://docs.google.com/document/d/1LITOw2SA6YXtNeNSAcS8Arq2ju-57QPst2F54rxhgl8/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">Lista de cotejo</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6ax1-qqseabsye</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6ax1-qqseabsye</odePageId>
+      <odeBlockId>block-1778104707581-gyoxjx3y2</odeBlockId>
+      <blockName></blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6ax1-qqseabsye</odePageId>
+          <odeBlockId>block-1778104707581-gyoxjx3y2</odeBlockId>
+          <odeIdeviceId>idevice-1778104707580-80hrqeh2f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1k1mHL70E5iiAx478JG9J_poMQx_hYNyRs9gs6D-Xyjw/edit?usp=sharing" target="_blank" rel="noopener" title="">Asociación de tareas a criterios de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778104707580-80hrqeh2f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1k1mHL70E5iiAx478JG9J_poMQx_hYNyRs9gs6D-Xyjw/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">Asociación de tareas a criterios de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mouj6ax2-a93fc7rxc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mouj6ax2-a93fc7rxc</odePageId>
+      <odeBlockId>block-1778022604169-dn688arro</odeBlockId>
+      <blockName></blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6ax2-a93fc7rxc</odePageId>
+          <odeBlockId>block-1778022604169-dn688arro</odeBlockId>
+          <odeIdeviceId>idevice-1778022604167-dslm3a52i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título: Nutre tu cuerpo: los grupos de alimentos</p>
+<p>Subtítulo: Aprende los grupos de alimentos mientras desarrollas competencia digital.</p>
+<p>Idioma: Español</p>
+<p>Autoría: José María Narbona Ortega</p>
+<p>Licencia: Creative Commons: Reconocimiento - compartir igual 4.0</p>
+<p>Descripción: En esta Situación de Aprendizaje, destinada a ponerse en práctica en la asignatura de Conocimiento del Medio, en un curso de 2º de Educación Primaria, vamos a trabajar los diferentes grupos de alimentos mediante el uso responsable de la herramienta de creación Canva y ChatGPT como recurso de Inteligencia Artificial. Para ello debemos seguir la secuencia didáctica expuesta a continuación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778022604167-dslm3a52i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título: Nutre tu cuerpo: los grupos de alimentos</p>\n<p>Subtítulo: Aprende los grupos de alimentos mientras desarrollas competencia digital.</p>\n<p>Idioma: Español</p>\n<p>Autoría: José María Narbona Ortega</p>\n<p>Licencia: Creative Commons: Reconocimiento - compartir igual 4.0</p>\n<p>Descripción: En esta Situación de Aprendizaje, destinada a ponerse en práctica en la asignatura de Conocimiento del Medio, en un curso de 2º de Educación Primaria, vamos a trabajar los diferentes grupos de alimentos mediante el uso responsable de la herramienta de creación Canva y ChatGPT como recurso de Inteligencia Artificial. Para ello debemos seguir la secuencia didáctica expuesta a continuación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mouj6ax2-a93fc7rxc</odePageId>
+      <odeBlockId>block-1778103250098-27017i5bu</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mouj6ax2-a93fc7rxc</odePageId>
+          <odeBlockId>block-1778103250098-27017i5bu</odeBlockId>
+          <odeIdeviceId>idevice-1778103250096-bp401ifak</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Nutre tu cuerpo: los grupos de alimentos</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En esta Situación de Aprendizaje, destinada a ponerse en práctica en la asignatura de Conocimiento del Medio, en un curso de 2º de Educación Primaria, vamos a trabajar los diferentes grupos de alimentos mediante el uso responsable de la herramienta de creación Canva y ChatGPT como recurso de Inteligencia Artificial. Para ello debemos seguir la secuencia didáctica que es expuesta a continuación.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">José María Narbona Ortega</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
